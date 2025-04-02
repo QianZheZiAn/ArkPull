@@ -51,9 +51,7 @@
 
 ## 截图展示
 
-![image-20250402085438802](D:\My_Works\ArkPull_GitHub\Screenshots\V1.png)
-
-
+![V1 Image](Screenshots/V1.png)
 
 ------
 
