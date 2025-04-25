@@ -3,7 +3,7 @@
    <img alt="ArkPull Logo" width="128" src="src/ArkPullIcon.png"/> 
    <p>
       ArkPull | 明日方舟抽卡模拟器<br>
-      <code><b>v2.0</b></code>
+      <code><b>v3.0</b></code>
    </p>
    <p>
       <img alt="C++ Version" src="https://img.shields.io/badge/C%2B%2B-%2011%2B-blue">
@@ -15,6 +15,7 @@
       <i>This project mainly supports Chinese docs. If you are an English user, feel free to contact me.</i>
    </sub>
 </div>
+
 
 
 ---
@@ -83,9 +84,9 @@
 
 ### 2. 如何运行 | **How to Run**
 
-- 克隆仓库，进入项目目录并点击 `ArkPull_ImgVer.exe` 启动程序（适用于 Windows 平台）。
+- 在 [Release 页面](https://github.com/QianZheZiAn/ArkPull/releases/tag/v3.0) 下载 `.exe` 文件，点击即可运行。
   
-  Clone the repository, navigate to the project directory, and run `ArkPull_ImgVer.exe` to launch the program (Windows platform).
+  Download the `.exe` file from the [Release page](https://github.com/QianZheZiAn/ArkPull/releases/tag/v3.0) and click to run.
 
 ### 3. 界面功能 | **Interface Features**
 
@@ -112,6 +113,9 @@
 
 **2.0版本：**  
 ![V2 Image](src/Screenshots/V2.png)
+
+**3.0版本：**  
+![V3 Image](src/Screenshots/V3.png)
 
 ------
 
