@@ -12,7 +12,7 @@
       <img alt="Build Status" src="https://img.shields.io/badge/Build-passing-brightgreen">
    </p>
    <sub>
-      <i>This project mainly supports Chinese docs. If you are an English user, feel free to contact us.</i>
+      <i>This project mainly supports Chinese docs. If you are an English user, feel free to contact me.</i>
    </sub>
 </div>
 
